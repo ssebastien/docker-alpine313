@@ -51,4 +51,4 @@ RUN mkdir /opt/workspace
 WORKDIR /opt/workspace
 
 CMD ["/bin/bash"]
-© 2021 GitHub, Inc.
+
